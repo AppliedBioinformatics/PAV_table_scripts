@@ -1,4 +1,4 @@
-# python makePAV.py input_bed_reference input_formatted_mosdepth_file
+# python makePAV.py input_bed_reference input_formatted_mosdepth_file > output
 
 import sys
 from collections import defaultdict
